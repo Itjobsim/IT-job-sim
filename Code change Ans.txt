@@ -1,0 +1,19 @@
+P1_Q1
+new_icon.png
+
+P1_Q2
+number, text
+
+P2_Q1
+(gender!=='M'&&gender!=='F')
+
+P2_Q2
+'10.0.0.1','123.45.67.89','172.16.0.1','192.168.0.123'
+
+P3_Q1
+'https://api.3hk.com/generate-otp'
+
+P3_Q2
+Crm_uat_13658
+Crm_uat2_13658
+Crm_13658
