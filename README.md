@@ -1,1 +1,1 @@
-IT Jib Simulation game
+IT Job Simulation game
